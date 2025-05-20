@@ -1,0 +1,20 @@
+{
+  "name": "package.json",
+  "version": "16.0.6",
+  "description": "porn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "exz",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.13.11"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "ez"
+  }
+}
